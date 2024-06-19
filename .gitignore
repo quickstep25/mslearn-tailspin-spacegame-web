@@ -5,6 +5,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# DEVELOPMENT ASSETS
+**/_dev
+**/_devassets
+**/_dev_assets
+**/_assets
+
+
 # User-specific files
 *.suo
 *.user
